@@ -1,0 +1,2 @@
+# solati
+automatización
